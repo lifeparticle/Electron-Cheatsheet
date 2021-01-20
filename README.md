@@ -10,4 +10,8 @@ npm run make
 ```
 
 
+Resources
+============
+
 1. https://www.electronforge.io/
+2. https://github.com/bradtraversy/electron-course-files
